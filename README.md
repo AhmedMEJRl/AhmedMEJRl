@@ -20,5 +20,5 @@
 
 
 # Suivez-moi
-- [LinkedIn] https://www.linkedin.com/in/ahmed-mejri13/
+- [LinkedIn] (https://www.linkedin.com/in/ahmed-mejri13/)
 - [Portfolio] 
