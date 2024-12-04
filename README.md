@@ -2,11 +2,11 @@
 
 
 
-Développeur passionné par la cybersecurité. Je suis actuellement à la recherche d'une alternance dans le domaine de la cybersecurité
+Étudiant a la plateforme passionné par la cybersecurité. Je suis actuellement à la recherche d'une alternance dans le domaine de la cybersecurité.
 
 # Compétences techniques
 - Langages : JavaScript, Python, HTML/CSS, etc.
-- Outils : Git, Docker, etc.
+- Outils : Git.
 
 ## Quelques projets
 
