@@ -12,10 +12,10 @@
 
 # Quelques projets
 
-1. *[Projet 1](https://github.com/Ahmeddlr/fansite)*
+1. *[Projet fansite](https://github.com/Ahmeddlr/fansite)*
   developpement d'un fan site d'une célébrité.
    
-2. *[Projet 2](https://github.com/Ahmeddlr/morpion)*
+2. *[Projet tic tac toe](https://github.com/Ahmeddlr/morpion)*
    developpement d'un morpion a l'aide de python
 
 
