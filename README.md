@@ -1,6 +1,6 @@
 # Bonjour, je suis Ahmed 👋
 
-![Ma photo de profil]([https://github.com/VotreNomUtilisateur/VotreRepository/blob/main/images/photo_profil.jpg?raw=true](https://github.com/Ahmeddlr/Ahmeddlr/blob/main/bannière%20professionnel)
+![Ma photo de profil](https://github.com/Ahmeddlr/Ahmeddlr/blob/main/bannière%20professionnel)
 
 
 
