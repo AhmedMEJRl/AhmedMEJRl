@@ -16,9 +16,6 @@
 2. *[Projet 2](https://github.com/Ahmeddlr/morpion)*
    developpement d'un morpion a l'aide de python
 
-# Statistiques GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateurGithub&show_icons=true)
 
 # Suivez-moi
 - [LinkedIn] https://www.linkedin.com/in/ahmed-mejri13/
