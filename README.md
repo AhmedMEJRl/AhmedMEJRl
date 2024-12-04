@@ -1,16 +1,25 @@
-## Hi there 👋
+# Bonjour, je suis Ahmed 👋
 
-<!--
-**Ahmeddlr/Ahmeddlr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Développeur passionné par la cybersecurité. Je suis actuellement à la recherche d'une alternance dans le domaine de la cybersecurité
+
+# Compétences techniques
+- Langages : JavaScript, Python, HTML/CSS, etc.
+- Outils : Git, Docker, etc.
+
+## Quelques projets
+
+1. **[Projet 1](https://github.com/mon-utilisateur/projet1)**  
+   Description brève du projet. Exemple : Application de gestion de tâches.
+   
+2. **[Projet 2](https://github.com/mon-utilisateur/projet2)**  
+   Description brève du projet. Exemple : Site e-commerce avec paiement en ligne.
+
+# Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VotreNomUtilisateurGithub&show_icons=true)
+
+# Suivez-moi
+- [LinkedIn] https://www.linkedin.com/in/ahmed-mejri13/
+- [Portfolio] https://www.votre-portfolio.com
