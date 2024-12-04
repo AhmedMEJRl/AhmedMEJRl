@@ -8,13 +8,13 @@
 - Langages : JavaScript, Python, HTML/CSS, etc.
 - Outils : Git.
 
-## Quelques projets
+# Quelques projets
 
-1. **[Projet 1](https://github.com/mon-utilisateur/projet1)**  
-   Description brève du projet. Exemple : Application de gestion de tâches.
+1. *[Projet 1](https://github.com/Ahmeddlr/fansite)*
+  developpement d'un fan site d'une célébrité.
    
-2. **[Projet 2](https://github.com/mon-utilisateur/projet2)**  
-   Description brève du projet. Exemple : Site e-commerce avec paiement en ligne.
+2. *[Projet 2](https://github.com/Ahmeddlr/morpion)*
+   developpement d'un morpion a l'aide de python
 
 # Statistiques GitHub
 
