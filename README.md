@@ -8,7 +8,7 @@
 
 # Compétences techniques
 - Langages : JavaScript, Python, HTML/CSS, etc.
-- Outils : Git.
+- Outils : Git, linkedin.
 
 # Quelques projets
 
